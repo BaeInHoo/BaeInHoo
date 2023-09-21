@@ -10,7 +10,7 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeInHoo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeInHoo&layout=compact&theme=tokyonight&count_private=true)
 
 <img src="https://github.com/BaeInHoo/BaeInHoo/blob/output/github-contribution-grid-snake.svg"/>
 <!--
