@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=BaeInHoo&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeInHoo&show_icons=true&theme=dark&count_private=true)
