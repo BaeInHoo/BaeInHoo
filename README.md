@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BaeInHoo&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeInHoo&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeInHoo&show_icons=true&theme=dark&count_private=true)
 
 ![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
