@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeInHoo&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=BaeInHoo&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeInHoo&show_icons=true&theme=radical)
+
+![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
+![java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 <!--
 **BaeInHoo/BaeInHoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
