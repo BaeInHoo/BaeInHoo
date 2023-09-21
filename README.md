@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeInHoo&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **BaeInHoo/BaeInHoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
