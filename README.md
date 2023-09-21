@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeInHoo&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeInHoo&layout=compact&theme=vision-friendly-dark&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeInHoo&layout=compact&theme=vision-friendly-dark&hide=css,html,scss)
 
 ![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
