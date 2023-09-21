@@ -5,7 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeInHoo&show_icons=true&theme=radical)
 
 ![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
-![java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
 <!--
 **BaeInHoo/BaeInHoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
